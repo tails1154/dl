@@ -1,0 +1,11 @@
+{
+    "id": 112,
+    "name": "Someones Adventure",
+    "author": "tails1154",
+    "creators": ["tails1154"],
+    "verifier": "tails1154",
+    "verification": "data:text/html,<h1>sorry i lost the recording</h1>",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": []
+}
